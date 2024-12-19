@@ -1,0 +1,3 @@
+[submodule "thirdparty/CDIT"]
+	path = thirdparty/CDIT
+	url = https://github.com/makexine/CDIT.git
